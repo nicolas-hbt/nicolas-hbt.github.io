@@ -1,5 +1,5 @@
 ---
-title: "Vers un système de recommandation explicable pour l’orientation scolaire"
+title: ""
 collection: publications
 permalink:
 excerpt: ''
