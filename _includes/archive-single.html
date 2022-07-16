@@ -45,22 +45,22 @@
           <br>{{ post.authors }}
           <br>In <i>{{ post.venue }}</i>, {{ post.when }}
            {% if post.paperurl %}
-          <br><a href="{{ post.paperurl }}" target="_blank" class="btn btn--success" role="button">Paper</a>
+          <br><a href="{{ post.paperurl }}" target="_blank" class="btn btn-secondary" role="button">Paper</a>
           {% endif %}
            {% if post.papersummary %}
-          <a href="{{ post.papersummary }}" target="_blank" class="btn btn--success" role="button">Summary</a>
+          <a href="{{ post.papersummary }}" target="_blank" class="btn btn-secondary" role="button">Summary</a>
           {% endif %}
           {% if post.code %}
-            <a href="{{ post.code }}" target="_blank" class="btn btn--success" role="button">Code</a>
+            <a href="{{ post.code }}" target="_blank" class="btn btn-secondary" role="button">Code</a>
           {% endif %}
           {% if post.slideurl %}
-            <a href="{{ post.slideurl }}" target="_blank" class="btn btn--success" role="button">Slides</a>
+            <a href="{{ post.slideurl }}" target="_blank" class="btn btn-secondary" role="button">Slides</a>
           {% endif %}
           {% if post.teaser %}
-            <a href="{{ post.teaser }}" target="_blank" class="btn btn--success" role="button">Teaser</a>
+            <a href="{{ post.teaser }}" target="_blank" class="btn btn-secondary" role="button">Teaser</a>
           {% endif %}
           {% if post.recording %}
-            <a href="{{ post.recording }}" target="_blank" class="btn btn--success" role="button">Recording</a>
+            <a href="{{ post.recording }}" target="_blank" class="btn btn-secondary" role="button">Recording</a>
           {% endif %}
           {% if post.acceptance %}
           <br><small>Acceptance rate: {{ post.acceptance }}</small>
