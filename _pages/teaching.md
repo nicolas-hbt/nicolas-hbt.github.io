@@ -9,7 +9,7 @@ author_profile: true
 
 ## Introduction to Java Programming 
 <dl>
-<dt>Academic Year</dt>
+  <dt><b>Academic Year</b></dt>
 <dd>2022-2023</dd>
 <dt>Course Duration</dt>
 <dd>64h</dd>
@@ -21,7 +21,7 @@ author_profile: true
 
 ## Advanced Database Systems
 <dl>
-<dt>Academic Year</dt>
+  <dt><b>Academic Year</b></dt>
 <dd>2021-2022</dd>
 <dt>Course Duration</dt>
 <dd>64h</dd>
