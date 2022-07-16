@@ -8,16 +8,25 @@ author_profile: true
 {% include base_path %}
 
 ## Introduction to Java Programming 
-
-Academic Year: 2022-2023\
-Course Duration: 64h\
-Students: 25 Bachelor Students\
-Keywords: Java Language, Variables, Tables, Constructors, Methods, Iterations, Conditions, Classes, Inheritance
-
+<dl>
+<dt>Academic Year</dt>
+<dd>2022-2023</dd>
+<dt>Course Duration</dt>
+<dd>64h</dd>
+<dt>Students</dt>
+<dd>25 Bachelor Students</dd>
+<dt>Keywords</dt>
+<dd>Java Language, Variables, Tables, Constructors, Methods, Iterations, Conditions, Classes, Inheritance</dd>
+</dl>
 
 ## Advanced Database Systems
-
-Academic Year: 2021-2022\
-Course Duration: 64h\
-Students: 25 Bachelor Students\
-Keywords: Relational Algebra, Advanced Queries, Permissions, Views, SQL, PL/SQL, PowerBI
+<dl>
+<dt>Academic Year</dt>
+<dd>2021-2022</dd>
+<dt>Course Duration</dt>
+<dd>64h</dd>
+<dt>Students</dt>
+<dd>25 Bachelor Students</dd>
+<dt>Keywords</dt>
+<dd>Relational Algebra, Advanced Queries, Permissions, Views, SQL, PL/SQL, PowerBI</dd>
+</dl>
