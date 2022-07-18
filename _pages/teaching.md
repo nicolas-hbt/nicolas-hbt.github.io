@@ -12,6 +12,9 @@ author_profile: true
 <button type="button" class="btn btn-default">2022-2023</button>
 <button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
 <button type="button" class="btn btn-secondary">Java</button>
+<button type="button" class="btn btn-secondary">Iterations</button>
+<button type="button" class="btn btn-secondary">Conditions</button>
+<button type="button" class="btn btn-secondary">Tables</button>
 <button type="button" class="btn btn-secondary">Constructors</button>
 <button type="button" class="btn btn-secondary">Methods</button>
 <button type="button" class="btn btn-secondary">Classes</button>
@@ -39,7 +42,8 @@ author_profile: true
 <button type="button" class="btn btn-secondary">Advanced Queries</button>
 <button type="button" class="btn btn-secondary">Permissions</button>
 <button type="button" class="btn btn-secondary">Views</button>
-<button type="button" class="btn btn-secondary">SQL & PL/SQL</button>
+<button type="button" class="btn btn-secondary">SQL</button>
+<button type="button" class="btn btn-secondary">PL/SQL</button>
 <button type="button" class="btn btn-secondary">PowerBI</button>
 
 <!-- <dl>
