@@ -10,7 +10,7 @@ author_profile: true
 ## Introduction to Java Programming (64h)
 <button type="button" class="btn btn-default">2022-2023</button>
 <button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
-<a target="_blank" class="btn btn-secondary" role="button">Paper</a>
+<!-- <a target="_blank" class="btn btn-secondary" role="button">Paper</a> -->
 
 <button type="button" class="btn btn-secondary">Java</button>
 <button type="button" class="btn btn-secondary">Iterations</button>
