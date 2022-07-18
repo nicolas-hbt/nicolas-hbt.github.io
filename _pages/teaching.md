@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Introduction to Java Programming (64h)
+## Introduction to Java Programming (64h)
 <button type="button" class="btn btn-default">2022-2023</button>
 <button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
 <button type="button" class="btn btn-secondary">Java</button>
@@ -34,7 +34,7 @@ author_profile: true
 <button name="button" onclick="http://www.google.com">B.Sc. Year 1 (Bac+1)</button>
 <a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a> -->
 
-# Advanced Database Systems (64h)
+## Advanced Database Systems (64h)
 <button type="button" class="btn btn-default">2021-2022</button>
 <button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
 <button type="button" class="btn btn-secondary">Relational Algebra</button>
