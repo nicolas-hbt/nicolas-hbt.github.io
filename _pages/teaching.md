@@ -32,7 +32,17 @@ author_profile: true
 <a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a> -->
 
 # Advanced Database Systems (64h)
-<dl>
+
+<button type="button" class="btn btn-default">2021-2022</button>
+<button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
+<button type="button" class="btn btn-secondary">Relational Algebra</button>
+<button type="button" class="btn btn-secondary">Advanced Queries</button>
+<button type="button" class="btn btn-secondary">Permissions</button>
+<button type="button" class="btn btn-secondary">Views</button>
+<button type="button" class="btn btn-secondary">SQL & PL/SQL</button>
+<button type="button" class="btn btn-secondary">PowerBI</button>
+
+<!-- <dl>
   <dt><b>Academic Year</b></dt>
 <dd>2021-2022</dd>
   <dt><b>Course Duration</b></dt>
@@ -41,4 +51,4 @@ author_profile: true
 <dd>25 Bachelor Students</dd>
   <dt><b>Keywords</b></dt>
 <dd>Relational Algebra, Advanced Queries, Permissions, Views, SQL, PL/SQL, PowerBI</dd>
-</dl>
+</dl> -->
