@@ -19,6 +19,9 @@ author_profile: true
 <dd>Java Language, Variables, Tables, Constructors, Methods, Iterations, Conditions, Classes, Inheritance</dd>
 </dl>
 
+<button name="button" onclick="http://www.google.com">Click me</button>
+<a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
+
 # Advanced Database Systems
 <dl>
   <dt><b>Academic Year</b></dt>
