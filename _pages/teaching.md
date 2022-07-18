@@ -10,6 +10,7 @@ author_profile: true
 ## Introduction to Java Programming (64h)
 <button type="button" class="btn btn-default">2022-2023</button>
 <button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
+
 <button type="button" class="btn btn-secondary">Java</button>
 <button type="button" class="btn btn-secondary">Iterations</button>
 <button type="button" class="btn btn-secondary">Conditions</button>
@@ -37,6 +38,7 @@ author_profile: true
 ## Advanced Database Systems (64h)
 <button type="button" class="btn btn-default">2021-2022</button>
 <button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
+
 <button type="button" class="btn btn-secondary">Relational Algebra</button>
 <button type="button" class="btn btn-secondary">Advanced Queries</button>
 <button type="button" class="btn btn-secondary">Permissions</button>
