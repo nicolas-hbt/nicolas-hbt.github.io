@@ -9,7 +9,7 @@ author_profile: true
 
 # Software
 
-## An Open-Source Repository for Measuring the Semantic Awareness of Knowledge Graph Embedding Models for Link Prediction
+## Measuring the Semantic Awareness of Knowledge Graph Embedding Models for Link Prediction
 
 <button type="button" a href="https://github.com/nicolas-hbt/dl4kg-2022" class="btn btn-primary">GitHub Repo</button>
 
