@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Software & Data"
+title: ""
 permalink: /software/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 
 # Software
 
-## Measuring the Semantic Awareness of Knowledge Graph Embedding Models for Link Prediction
+## Semantic Awareness of Knowledge Graph Embedding Models for Link Prediction
 
 <button type="button" a href="https://github.com/nicolas-hbt/dl4kg-2022" class="btn btn-primary">GitHub Repo</button>
 
