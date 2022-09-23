@@ -8,7 +8,7 @@ date: January 2022
 year: 2022
 authors: <b>Nicolas Hubert</b>, Armelle Brun, and Davy Monticolo
 venue: 'Extraction et Gestion des Connaissances (EGC) - 22ème Edition'
-acceptance: unknown
+acceptance rate: unknown
 paperurl: 'https://hal.archives-ouvertes.fr/hal-03559471/document'
 citation:
 ---
