@@ -8,7 +8,7 @@ date: September 2022
 year: 2022
 authors: <b>Nicolas Hubert</b>, Pierre Monnin, Armelle Brun, and Davy Monticolo
 venue: '23rd International Conference on Knowledge Engineering and Knowledge Management (EKAW)'
-acceptance: 19% (11/57 full research papers)
+acceptance rate: 19% (11/57 full research papers)
 paperurl: 'https://hal.inria.fr/hal-03722881/document'
 citation:
 ---
