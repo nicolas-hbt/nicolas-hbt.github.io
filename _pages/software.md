@@ -12,8 +12,8 @@ author_profile: true
 
 ## <a href="https://github.com/nicolas-hbt/dl4kg-2022">Semantic Awareness of Knowledge Graph Embedding Models for Link Prediction</a>  
   
-   
-   
+    
+
 # Data
 
 
