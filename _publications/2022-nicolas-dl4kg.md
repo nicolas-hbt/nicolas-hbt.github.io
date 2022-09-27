@@ -3,8 +3,8 @@ title: "Knowledge Graph Embeddings for Link Prediction: Beware of Semantics!"
 collection: publications
 permalink:
 excerpt: ''
-when: October 2022
-date: October 2022
+when: October 2022.
+date: October 2022.
 year: 2022
 authors: <b>Nicolas Hubert</b>, Pierre Monnin, Armelle Brun, and Davy Monticolo
 venue: 'DL4KG@ISWC 2022: Workshop on Deep Learning for Knowledge Graphs, held as part of ISWC 2022: the 21st International Semantic Web Conference'
