@@ -1,5 +1,5 @@
 ---
-title: "New Strategies for Training Knowledge Graph Embeddings: the Recommendation Case"
+title: "New Strategies for Training Knowledge Graph Embeddings: The Recommendation Case"
 collection: publications
 permalink:
 excerpt: ''
