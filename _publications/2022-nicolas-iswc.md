@@ -3,8 +3,8 @@ title: "New Ontology and Knowledge Graph for University Curriculum Recommendatio
 collection: publications
 permalink:
 excerpt: ''
-when: October 2022
-date: October 2022
+when: October 2022.
+date: October 2022.
 year: 2022
 authors: <b>Nicolas Hubert</b>, Armelle Brun, and Davy Monticolo
 venue: '21st International Semantic Web Conference (ISWC)'
