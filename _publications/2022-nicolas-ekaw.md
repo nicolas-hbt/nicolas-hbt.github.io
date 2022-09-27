@@ -3,8 +3,8 @@ title: "New Strategies for Training Knowledge Graph Embeddings: The Recommendati
 collection: publications
 permalink:
 excerpt: ''
-when: September 2022. <b>Nominated for the Best Paper Award.</b>
-date: September 2022. <b>Nominated for the Best Paper Award.</b>
+when: September 2022. <b><FONT COLOR="#DECF1F">Nominated for the Best Paper Award.</FONT></b>
+date: September 2022. <b><FONT COLOR="#DECF1F">Nominated for the Best Paper Award.</FONT></b>
 year: 2022
 authors: <b>Nicolas Hubert</b>, Pierre Monnin, Armelle Brun, and Davy Monticolo
 venue: '23rd International Conference on Knowledge Engineering and Knowledge Management (EKAW)'
