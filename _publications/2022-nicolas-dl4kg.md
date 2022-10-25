@@ -8,7 +8,7 @@ date: October 2022.
 year: 2022
 authors: <b>Nicolas Hubert</b>, Pierre Monnin, Armelle Brun, and Davy Monticolo
 venue: 'DL4KG@ISWC 2022: Workshop on Deep Learning for Knowledge Graphs, held as part of ISWC 2022: the 21st International Semantic Web Conference'
-acceptance rate: unknown
+acceptance rate: 70%
 paperurl: 'https://hal.archives-ouvertes.fr/hal-03787512/document'
 citation:
 ---
