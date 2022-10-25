@@ -8,7 +8,7 @@ date: October 2022.
 year: 2022
 authors: <b>Nicolas Hubert</b>, Armelle Brun, and Davy Monticolo
 venue: '21st International Semantic Web Conference (ISWC)'
-acceptance rate: unknown
+acceptance rate: 49% (26/53 poster and demo papers)
 paperurl: 'https://hal.archives-ouvertes.fr/hal-03768154/document'
 citation:
 ---
