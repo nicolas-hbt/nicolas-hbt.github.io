@@ -7,10 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+## <FONT COLOR="#3CB371">Semantic Web (30h)</FONT>
+<button type="button" class="btn btn-default">2023-2024</button>
+<button type="button" class="btn btn-primary">MSc Year 1 (Bac+4)</button>
+
+<button type="button" class="btn btn-secondary">Linked Data</button>
+<button type="button" class="btn btn-secondary">Knowledge Representation</button>
+<button type="button" class="btn btn-secondary">Knowledge Reasoning</button>
+<button type="button" class="btn btn-secondary">Knowledge Extraction</button>
+<button type="button" class="btn btn-secondary">Ontologies</button>
+<button type="button" class="btn btn-secondary">SPARQL</button>
+
 ## <FONT COLOR="#3CB371">Introduction to Java Programming (64h)</FONT>
 <button type="button" class="btn btn-default">2022-2023</button>
-<button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
-<!-- <a target="_blank" class="btn btn-secondary" role="button">Paper</a> -->
+<button type="button" class="btn btn-primary">BSc Year 1 (Bac+1)</button>
 
 <button type="button" class="btn btn-secondary">Java</button>
 <button type="button" class="btn btn-secondary">Iterations</button>
@@ -38,7 +48,7 @@ author_profile: true
 
 ## <FONT COLOR="#3CB371">Advanced Database Systems (64h)</FONT>
 <button type="button" class="btn btn-default">2021-2022</button>
-<button type="button" class="btn btn-primary">B.Sc. Year 1 (Bac+1)</button>
+<button type="button" class="btn btn-primary">BSc Year 1 (Bac+1)</button>
 
 <button type="button" class="btn btn-secondary">Relational Algebra</button>
 <button type="button" class="btn btn-secondary">Advanced Queries</button>
