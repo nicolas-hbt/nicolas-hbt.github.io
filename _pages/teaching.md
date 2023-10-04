@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## <FONT COLOR="#3CB371">Semantic Web (30h)</FONT>
+## <FONT COLOR="#3CB371">Semantic Web (16h)</FONT>
 <button type="button" class="btn btn-default">2023-2024</button>
 <button type="button" class="btn btn-primary">MSc Year 1 (Bac+4)</button>
 
