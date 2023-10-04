@@ -18,6 +18,16 @@ author_profile: true
 <button type="button" class="btn btn-secondary">Ontologies</button>
 <button type="button" class="btn btn-secondary">SPARQL</button>
 
+## <FONT COLOR="#3CB371">Mathematics (48h)</FONT>
+<button type="button" class="btn btn-default">2023-2024</button>
+<button type="button" class="btn btn-primary">BSc Year 1 (Bac+1)</button>
+
+<button type="button" class="btn btn-secondary">Analysis</button>
+<button type="button" class="btn btn-secondary">Linear Algebra</button>
+<button type="button" class="btn btn-secondary">Probability</button>
+<button type="button" class="btn btn-secondary">Statistics</button>
+<button type="button" class="btn btn-secondary">Introduction to Algorithms</button>
+
 ## <FONT COLOR="#3CB371">Introduction to Java Programming (64h)</FONT>
 <button type="button" class="btn btn-default">2022-2023</button>
 <button type="button" class="btn btn-primary">BSc Year 1 (Bac+1)</button>
