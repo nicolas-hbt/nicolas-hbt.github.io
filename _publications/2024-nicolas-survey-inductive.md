@@ -1,5 +1,5 @@
 ---
-title: "Beyond transduction: A survey on inductive, few shot, and zero shot link prediction in knowledge graphs (under review)."
+title: "Beyond Transduction: A Survey on Inductive, Few Shot, and Zero Shot Link Prediction in Knowledge Graphs (under review)"
 collection: publications
 permalink:
 excerpt: ''
