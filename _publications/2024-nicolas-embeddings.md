@@ -1,13 +1,13 @@
 ---
-title: "Do Similar Entities have Similar Embeddings? (under review)"
+title: "Do Similar Entities have Similar Embeddings?"
 collection: publications
 permalink:
 excerpt: ''
-when: December 2023.
-date: December 2023.
-year: 2023
+when: May 2024.
+date: May 2024.
+year: 2024
 authors: <b>Nicolas Hubert</b>, Heiko Paulheim, Armelle Brun, and Davy Monticolo
-venue: 'arXiv'
+venue: 'The Semantic Web - 21st Int. Conf., ESWC 2024, Hersonissos, Crete, Greece, Proceedings'
 paperurl: 'https://arxiv.org/abs/2312.10370'
 citation:
 ---
