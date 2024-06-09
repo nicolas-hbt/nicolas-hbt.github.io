@@ -18,4 +18,4 @@ I am also a PhD Visiting Researcher at the <a href="https://www.uni-mannheim.de/
 In 2020, I obtained my engineering diploma from <a href="https://www.ec-nantes.fr/english-version">Ecole Centrale de Nantes</a> (Master's Degree), where I specialized in <a href="https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/mathematics-and-applications">Mathematics and Applications</a> with a focus on Statistics and Machine Learning. The same year, I also graduated from <a href="https://www.audencia.com/en/">Audencia Business School</a> (Master's Degree). 
 
 ## Interests
-Knowledge Graphs ⋅ Graph Representation Learning ⋅ Graph Neural Networks ⋅ Neuro-symbolic AI ⋅ Machine Learning
+Knowledge Graphs ⋅ Graph Representation Learning ⋅ Neuro-symbolic AI ⋅ Machine Learning
