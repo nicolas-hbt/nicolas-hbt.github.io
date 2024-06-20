@@ -1,5 +1,5 @@
 ---
-title: "Do Similar Entities have Similar Embeddings?"
+title: "Do Similar Entities Have Similar Embeddings?"
 collection: publications
 permalink:
 excerpt: ''
